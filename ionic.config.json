@@ -1,0 +1,7 @@
+{
+  "name": "cars-do",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
